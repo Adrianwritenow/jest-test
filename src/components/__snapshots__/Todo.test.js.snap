@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Todo component Test to see if component renders 1`] = `
+<div
+  className="Todo"
+>
+  <input
+    checked={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <span
+    className="todo-not-done"
+    onClick={[Function]}
+  >
+    Test
+  </span>
+</div>
+`;
